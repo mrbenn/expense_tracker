@@ -13,3 +13,4 @@ gem 'rack-test', '0.6.3'
 gem 'sinatra', '1.4.8'
 gem 'pry', '~> 0.10.4'
 gem 'cucumber'
+gem 'rubocop', '~> 0.48.1', require: false
